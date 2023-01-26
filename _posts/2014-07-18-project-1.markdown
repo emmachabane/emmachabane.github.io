@@ -7,5 +7,5 @@ alt: image-alt
 project-date: October 2022
 client: MIT InfoLab
 category: Language Researcher
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam
+description: I investigated the neural basis of surprisal by analyzing relationship between cognitive activity and surprisal scores, given 55h+ of intracranial recordings and annotated treebank.
 ---
