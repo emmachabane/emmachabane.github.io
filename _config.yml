@@ -31,8 +31,8 @@ color:
   secondary-dark: 233140 #A2122F
 
 # # Footer settings
-# footer:
-#   copyright: Dr. Henry Jekyll
+footer:
+  copyright: Emma Chabane
 #   location: Location
 #   social: Around the Web
 #   credits: Credits
