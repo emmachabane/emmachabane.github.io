@@ -7,5 +7,5 @@ alt: image-alt
 project-date: October 2022
 client: MIT InfoLab
 category: Language Researcher
-description: I investigated the neural basis of linguistic surprisal by analyzing relationship between cognitive activity and surprisal scores, given 55h+ of intracranial recordings and annotated treebank. The word probabilities in our surprisal models were computed three-way: an LSTM model, an n-gram model, and a GPT-2 model.
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam
 ---
