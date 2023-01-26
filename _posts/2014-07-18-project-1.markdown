@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-10-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2022 - Present
+employer: InfoLab at MIT CSAIL
+category: Language Research
+description:  I investigated the neural basis of linguistic surprisal by analyzing relationship between cognitive activity and surprisal scores, given 55h+ of intracranial recordings and annotated treebank. The word probabilities in our surprisal models were computed three-way: an LSTM model, an n-gram model, and a GPT-2 model.
 ---
