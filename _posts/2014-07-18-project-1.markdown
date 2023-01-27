@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2022-10-01
-img: cake.png
-alt: image-alt
+img: surprisal.png
+alt: The red on the top graph signifies higher neural activity. You’ll notice that the maximum on the high surprisal graph is much higher than for low surprisal, with a microvolts difference of about 15 microvolts. These measurements were extracted from electrodes placed in the superior temporal gyrus, therefore telling us that there is a basis for surprisal within that area. Previous research has shown that the STG is involved in auditory processing, including language, and our results corroborate that statement. It is quite clear from these results that high surprisal indeed correlates to higher neural activity and thus processing.
 project-date: October 2022
 lab: MIT InfoLab
 type: Research
