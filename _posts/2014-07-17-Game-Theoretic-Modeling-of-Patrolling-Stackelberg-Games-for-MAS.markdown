@@ -6,6 +6,6 @@ img: dobss.png
 alt: image-alt
 project-date: May 2022
 client: Cognitive Robotics
-category: Web Development
+category: Robotics simulation
 description: For my Cognitive Robotics final project, I worked on creating simulations of multi-agent systems whose aim was to patrol a house. We use game theory, and specifically Stackerlberg games to frame our project, and solved for the optimal policies using a Decomposed Optimized Bayesian Stackelberg Solver.
 ---
