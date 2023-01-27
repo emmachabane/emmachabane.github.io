@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2022-10-01
-img: surprisal.png
-alt: image-alt
+img: suprisal.png
+alt: Raster plots and graphs of the neural voltage activity in the superior temporal gyrus region of the brain for Cars 2. Surprisal was computed as the negative log of word probability, using word probabilities from the GPT-2 language model.
 project-date: October 2022
 lab: MIT InfoLab
 type: Research
