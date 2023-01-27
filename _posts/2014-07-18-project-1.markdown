@@ -5,7 +5,7 @@ date: 2022-10-01
 img: cake.png
 alt: image-alt
 project-date: October 2022
-client: MIT InfoLab
-category: Language Researcher
-description: I investigated the neural basis of surprisal by analyzing relationship between cognitive activity and surprisal scores, given 55h+ of intracranial recordings and annotated treebank.
+lab: MIT InfoLab
+type: Research
+description: I investigated the neural basis of surprisal by analyzing relationship between cognitive activity and surprisal scores, given 55h+ of intracranial recordings and annotated treebank. In this project, we computed word probabilities for our surprisal scores using LSTM, n-gram, and GPT-2 models.
 ---
