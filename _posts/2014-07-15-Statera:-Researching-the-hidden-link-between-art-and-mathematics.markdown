@@ -1,11 +1,13 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: statera.png
+modal-id: 3
+date: 2022-12-01
+img: leschema.png
 alt: image-alt
-project-date: April 2014
-category: Art and Mathematics
-description: In late high school, I spent some time studying the dichotomy between mathematics and art. The math and art couple always seemed to be incredibly intersting to me, and art and mathematics are not often thought of together. Art is often seen as something beautiful, from a purely aesthetic POV. We often forget its codified and strict aspects. It is a subject that is arguably close to mathematics, which on the other hand, is a discipline meant to demonstrate facts about the world meaningfully and logically. However, math can also be seen as beautiful. As a result of these thoughts, I began my research project. I worked with Stanford lecturer and mathemartist John Edmark, wrote a 30-page dissertation, and created a 3D printed sculpture on SketchUp: Statera, the balance.
+project-date: December 2022
+category: Art & Neuroscience
+description: 
 ---
+
+
 
