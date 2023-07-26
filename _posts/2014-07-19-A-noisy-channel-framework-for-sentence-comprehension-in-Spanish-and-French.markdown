@@ -6,6 +6,8 @@ img: noisy.png
 alt: image-alt
 project-date: May 2023
 category: Computational Psycholinguistics
-description: Linguistic communication is no easy task, and is very often subject to noise. 
+description: Linguistic communication is no easy task, and is very often subject to noise. Speakers
+can make errors or introduce ambiguity, and our environment can introduce other sounds which
+might make it difficult to comprehend one another. 
 ---
 
