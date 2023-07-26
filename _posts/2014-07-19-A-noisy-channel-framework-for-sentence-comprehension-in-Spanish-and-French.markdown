@@ -6,6 +6,6 @@ img: noisy.png
 alt: image-alt
 project-date: May 2023
 category: Computational Psycholinguistics
-description: helo
+description: Linguistic communication is no easy task, and is very often subject to noise. 
 ---
 
