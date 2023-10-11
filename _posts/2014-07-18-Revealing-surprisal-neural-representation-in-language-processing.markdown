@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-10-01
-img: suprisal.png
+img: surprisal.png
 alt: image-alt
 project-date: October 2022
 lab: MIT InfoLab
